@@ -93,7 +93,7 @@ addons/snap3d/
 
 ## 🔖 Версия
 
-`1.0.0` — совместимо с Godot 4.2+, протестировано на 4.5 и 4.7 beta1.
+`1.0.0` — совместимо с Godot 4.5+, протестировано на 4.5 и 4.7 beta1.
 
 ---
 
@@ -195,4 +195,4 @@ addons/snap3d/
 
 ## 🔖 Version
 
-`1.0.0` — compatible with Godot 4.2+, tested on 4.5 and 4.7 beta1.
+`1.0.0` — compatible with Godot 4.5+, tested on 4.5 and 4.7 beta1.
